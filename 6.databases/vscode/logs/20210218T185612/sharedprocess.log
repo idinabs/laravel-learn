@@ -1,0 +1,20 @@
+[2021-02-18 18:56:16.505] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/petot/Documents/project-laravel/6.databases/vscode/User/snippets'
+[2021-02-18 18:56:46.131] [sharedprocess] [info] Installing extension: beardedbear.beardedtheme
+[2021-02-18 18:56:47.146] [sharedprocess] [info] Downloaded extension: beardedbear.beardedtheme undefined
+[2021-02-18 18:56:47.277] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.beardedbear.beardedtheme-3.5.2: beardedbear.beardedtheme
+[2021-02-18 18:56:47.277] [sharedprocess] [info] Renamed to /root/.vscode/extensions/beardedbear.beardedtheme-3.5.2
+[2021-02-18 18:56:47.279] [sharedprocess] [info] Installation completed. beardedbear.beardedtheme
+[2021-02-18 18:56:47.286] [sharedprocess] [info] Extensions installed successfully: beardedbear.beardedtheme
+[2021-02-18 18:56:56.351] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-02-18 18:57:02.541] [sharedprocess] [info] Installing extension: beardedbear.beardedicons
+[2021-02-18 18:57:03.121] [sharedprocess] [info] Downloaded extension: beardedbear.beardedicons undefined
+[2021-02-18 18:57:03.386] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.beardedbear.beardedicons-0.9.1: beardedbear.beardedicons
+[2021-02-18 18:57:03.387] [sharedprocess] [info] Renamed to /root/.vscode/extensions/beardedbear.beardedicons-0.9.1
+[2021-02-18 18:57:03.388] [sharedprocess] [info] Installation completed. beardedbear.beardedicons
+[2021-02-18 18:57:03.395] [sharedprocess] [info] Extensions installed successfully: beardedbear.beardedicons
+[2021-02-18 18:57:27.235] [sharedprocess] [info] Installing extension: bmewburn.vscode-intelephense-client
+[2021-02-18 18:57:29.862] [sharedprocess] [info] Downloaded extension: bmewburn.vscode-intelephense-client undefined
+[2021-02-18 18:57:30.989] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.bmewburn.vscode-intelephense-client-1.6.3: bmewburn.vscode-intelephense-client
+[2021-02-18 18:57:30.990] [sharedprocess] [info] Renamed to /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.6.3
+[2021-02-18 18:57:30.994] [sharedprocess] [info] Installation completed. bmewburn.vscode-intelephense-client
+[2021-02-18 18:57:31.014] [sharedprocess] [info] Extensions installed successfully: bmewburn.vscode-intelephense-client

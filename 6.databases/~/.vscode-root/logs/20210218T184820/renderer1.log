@@ -1,0 +1,1 @@
+[2021-02-18 18:48:22.374] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/petot/Documents/project-laravel/6.databases/.vscode'

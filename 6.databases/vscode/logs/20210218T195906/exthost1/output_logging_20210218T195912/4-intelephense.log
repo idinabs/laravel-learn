@@ -1,0 +1,10 @@
+[Info  - 7:59:12 PM] Initialising intelephense 1.6.3
+[Info  - 7:59:12 PM] Reading state from /home/petot/Documents/project-laravel/6.databases/vscode/User/workspaceStorage/23bd32be6166b6a3ee104b777f827f18/bmewburn.vscode-intelephense-client/42347afa.
+[Info  - 7:59:14 PM] Initialised in 1759 ms
+[Warn  - 7:59:15 PM] file:///home/petot/Documents/project-laravel/6.databases/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 7:59:15 PM] Indexing started.
+[Info  - 7:59:15 PM] Indexing ended. 4 files indexed in 0s.
+[Info  - 7:59:15 PM] Writing state to /home/petot/Documents/project-laravel/6.databases/vscode/User/workspaceStorage/23bd32be6166b6a3ee104b777f827f18/bmewburn.vscode-intelephense-client/42347afa.
+[Info  - 7:59:16 PM] Wrote state in 1.2s.
+[Info  - 8:00:34 PM] Indexing started.
+[Info  - 8:00:34 PM] Indexing ended. 1 files indexed in 0s.
